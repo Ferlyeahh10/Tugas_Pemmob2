@@ -1,20 +1,42 @@
-# tugas_pemmob2
+-----
 
-A new Flutter project.
+## 💖 SkincareRoutineApp
 
-## Getting Started
+Aplikasi sederhana untuk membantu Anda melacak dan mengelola rutinitas *skincare* harian Anda.
 
-This project is a starting point for a Flutter application.
+### 📝 Deskripsi Proyek
 
-A few resources to get you started if this is your first Flutter project:
+**SkincareRoutineApp** adalah sebuah aplikasi *to-do list* berbasis Flutter yang dirancang khusus untuk rutinitas perawatan kulit (*skincare*). Aplikasi ini bertujuan untuk memudahkan pengguna dalam mengingat langkah-langkah *skincare* mereka (pagi dan malam) dan mencatat apa saja yang sudah dikerjakan.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ✨ Fitur Utama
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  * **Daftar *To-Do* Skincare:** Membuat dan menampilkan daftar langkah-langkah *skincare* yang harus dilakukan (contoh: *Cleanser, Toner, Serum, Moisturizer, Sunscreen*).
+  * **Tandai Selesai:** Pengguna dapat menandai tugas sebagai selesai dengan mudah.
+  * **Antarmuka Pengguna Intuitif:** Desain yang bersih dan mudah digunakan (sesuai dengan prinsip Flutter).
 
-images: https://github.com/Ferlyeahh10/tugas_pemmob2/issues/1
+### 🛠️ Teknologi
 
+Proyek ini dibangun menggunakan:
 
+  * **Flutter**
+  * **Dart**
+
+### 🚀 Mulai (Getting Started)
+
+Bagian ini menjelaskan cara menginstal dan menjalankan proyek ini di perangkat lokal Anda.
+
+#### Prasyarat
+
+Pastikan Anda telah menginstal yang berikut ini:
+
+  * **Flutter SDK**
+  * **Dart SDK**
+  * Editor kode seperti **VS Code** atau **Android Studio** dengan plugin Flutter.
+
+### 🖼️ *Screenshot*
+
+```
+(https://github.com/Ferlyeahh10/tugas_pemmob2/issues/1)
+```
+
+-----
